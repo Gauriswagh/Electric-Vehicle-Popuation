@@ -1,5 +1,7 @@
 # Electric-Vehicle-Popuation
+![images](https://github.com/user-attachments/assets/c64fae69-a798-4bcf-95b1-8f81026bdc0b)
 # Exploratory Data Analysis On Exploratory Data Analysis On Electric Vehicle Population
+
 
 The goal of this project is to analyse and visualise the  Electric Vehicle Population
  dataset from Kaggle using Python (Matplotlib, seaborn and plotly).
